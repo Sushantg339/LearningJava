@@ -1,6 +1,6 @@
 import java.util.Scanner ;
 public class TakingInput {
-    public static void main(String[] args) {
+    public static void main(strings[] args) {
       //  System.out.println("aisa kaise ho skta h !");
         Scanner s = new Scanner(System.in);
         System.out.print("enter marks 1 : ");

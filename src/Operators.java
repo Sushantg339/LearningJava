@@ -1,5 +1,5 @@
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(strings[] args) {
         int x = 8+5 ;
         int y = 8-5 ;
         int z = 5*5 ;

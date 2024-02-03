@@ -1,6 +1,6 @@
 import java.util.Scanner ;
 public class KmToMiles {
-    public static void main(String[] args) {
+    public static void main(strings[] args) {
         Scanner miles = new Scanner(System.in);
         System.out.print("enter kms : ") ;
         float mile = miles.nextFloat();
